@@ -36,7 +36,7 @@ ___
 | 10 | Bash | ![](https://miro.medium.com/max/1080/1*v4o2AXLIJaHSZmqYZk26qA.jpeg) |
 | 11 | CCNA | ![](https://learning.nil.com/assets/News/2019/New-Cisco-CCNA.jpg) |
 | 12 | CCNP Security | ![](https://www.imedita.com/wp-content/uploads/2019/01/CCNP-Security-1.jpg) |
-| 13 | OSCE (Best Achievement)| ![](https://www.vesiluoma.com/wp-content/uploads/2019/12/OSCE.jpeg) |
+| 13 | OSCE (Best Achievement)| ![](https://images.credly.com/images/b1da1cd4-98da-48de-b604-b5d2b72ac696/linkedin_thumb_image.png) |
 | 14 | CISSP | ![](https://d20f8czie2ltiw.cloudfront.net/images/logos/partners/certified-information-systems-security-professional-cissp-logo.png) |
 | 15 | Arduino C | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9vOi-DnEjsdBQFGWnJ7zmyBggDk5vVuVDNg&usqp=CAU) |
 
